@@ -10,7 +10,7 @@ In many Linux implementations, **vi** has been replaced by **vim**, Vi IMproved.
 
 With **ed** we saw that two modes exist, command mode and insert mode. The same applies to **vi** and the commands to move between the two modes are the same.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 vi lets you create new files or edit existing ones. Try the command
 

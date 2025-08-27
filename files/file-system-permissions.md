@@ -12,11 +12,11 @@ Every filesystem object is
 * Assigned to a group (G) which has specific permissions.
 * Accessible by any other (O) user, dependent on specific permissions.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Permissions are very simple, read (R), write (W), and execute (X) and in original UNIX systems were represented using octal codes.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 When I write a script, I will often give it permissions of **755**. This allows me as the owner to read, write and execute. It allows anyone else to read and execute, but not to change my script!
 
