@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Background](README.md)
+  * [Deliverables](background/deliverables.md)
 * [Files](files/README.md)
   * [FHS](files/fhs.md)
   * [File System Permissions](files/file-system-permissions.md)
