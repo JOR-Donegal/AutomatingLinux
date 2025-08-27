@@ -11,3 +11,4 @@
   * [Arguments](the-shell/arguments.md)
   * [Options](the-shell/options.md)
   * [Permissions](the-shell/permissions.md)
+* [Shell Scripts](shell-scripts.md)
