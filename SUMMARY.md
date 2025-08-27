@@ -13,3 +13,4 @@
   * [Permissions](the-shell/permissions.md)
 * [Shell Scripts](shell-scripts/README.md)
   * [Selecting the shell](shell-scripts/selecting-the-shell.md)
+  * [Processes](shell-scripts/processes.md)
