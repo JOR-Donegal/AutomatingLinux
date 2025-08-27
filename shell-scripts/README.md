@@ -16,7 +16,7 @@ grep $USER /etc/passwd
 
 This will take your user name as a search parameter and look for it in the password file.
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 We can take this simple command and include it in a file which we can then run. Make a directory called **scripts** and then make this you’re working directory. All future scripts will be stored here!
 
